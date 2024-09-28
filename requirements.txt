@@ -1,0 +1,6 @@
+Flask
+Gunicorn
+requests
+beautifulsoup4
+Flask-SQLAlchemy
+urllib3
