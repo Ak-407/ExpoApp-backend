@@ -8,6 +8,17 @@
       "expo-router"
     ],
     "name": "tabs-app",
-    "slug": "tabs-app"
+    "slug": "tabs-app",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "715fd5b2-fda2-4120-a1d6-c55c71dc9225"
+      }
+    },
+    "android": {
+      "package": "com.amaaniqbal3k.tabsapp"
+    }
   }
 }
